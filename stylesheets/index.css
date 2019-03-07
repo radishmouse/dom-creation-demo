@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+.nav-links a {
+    color: white;
+    font-size: 24px;
+    display: inline-block;
+    padding: 8px 12px;
+    background: darkkhaki;
+}
+
